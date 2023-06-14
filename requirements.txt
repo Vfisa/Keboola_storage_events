@@ -1,0 +1,13 @@
+jsonschema
+pandas
+plotly
+python-dateutil
+pyyaml
+requests
+requests
+scikit-learn
+scipy
+snowflake-connector-python
+sqlalchemy
+sqlparse
+streamlit
